@@ -1,0 +1,9 @@
+ siraphop_sk@live.com
+
+bbe3475b0beb634a3c74a9362b6e3ff24d714a35
+
+
+
+[9:47] Siraphop Sangka
+
+ผมลองเปิดไฟล์ดู เหมือนพี่จะต้องเอา UDID ของผมไปสร้างเป็น profile แล้ว build แอพก่อนหรือเปล่าครับ อันนี้เหมือนเป็นไฟล์ project ที่มีข้อมูล Team อยู่แล้ว พอผมลอง import โปรไฟล์ตัวเองลงไปมันบอก cert ไม่ match ครับ
